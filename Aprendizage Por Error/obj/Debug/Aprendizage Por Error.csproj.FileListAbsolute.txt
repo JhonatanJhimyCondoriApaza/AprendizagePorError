@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\bin\Debug\Aprendizage Por Error.exe.config
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\bin\Debug\Aprendizage Por Error.exe
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\bin\Debug\Aprendizage Por Error.pdb
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage Por Error.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage_Por_Error.Form1.resources
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage_Por_Error.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage Por Error.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage Por Error.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage Por Error.exe
+C:\Users\Alumno\source\repos\Aprendizage Por Error\Aprendizage Por Error\obj\Debug\Aprendizage Por Error.pdb
